@@ -1,0 +1,8 @@
+C:\Users\Vadim\Desktop\Gomoku_version_2\Gomoku_version_2\bin\Debug\Gomoku.exe.config
+C:\Users\Vadim\Desktop\Gomoku_version_2\Gomoku_version_2\bin\Debug\Gomoku.exe
+C:\Users\Vadim\Desktop\Gomoku_version_2\Gomoku_version_2\bin\Debug\Gomoku.pdb
+C:\Users\Vadim\Desktop\Gomoku_version_2\Gomoku_version_2\obj\Debug\Gomoku_version_2.Gomoku.resources
+C:\Users\Vadim\Desktop\Gomoku_version_2\Gomoku_version_2\obj\Debug\Gomoku.Properties.Resources.resources
+C:\Users\Vadim\Desktop\Gomoku_version_2\Gomoku_version_2\obj\Debug\Gomoku.csproj.GenerateResource.Cache
+C:\Users\Vadim\Desktop\Gomoku_version_2\Gomoku_version_2\obj\Debug\Gomoku.exe
+C:\Users\Vadim\Desktop\Gomoku_version_2\Gomoku_version_2\obj\Debug\Gomoku.pdb
